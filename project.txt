@@ -1,0 +1,26 @@
+Zsok Andras		->	Bug-ok létrehozása, hozzáadása és státuszának módosítása
+Szabó Dorottya	->	Daily scrum-ot
+Hunor Szatmari	->	Epic-ek létrehozását, szerkesztését és törlését gondoltam
+Kapas Orsolya	->	1. User létrehozás2. Keresés story cimekben -> találatok kilistázása3. Story modositása -> User assignálása.
+Tünde Koncsárd	->	Az általam kigondolt funkcionalitás az lenne, hogy a home oldalon szereplő story listaelemekre tennék egy dropdown menüt, s az ábrázolná, hogy éppen milyen fázisban van (to do, in progress, review, QA stb).
+Mille Janos		->  Scrum of Scrums-ot szeretném megvalósítani ha más még nem választotta ezt a témát
+Cosma Cristian-Sebastian  ->  1. Story hataridok, kezdet es befejezes monitoring, figyelmeztetesek a hatarido miatt, ido szerinti telyesitmeny kiirasa (be irt orak alapjan). 2. Story Commentek listazas, iras, torles. 3. Story allapotok (To do, in progress, under testing, closed) Amikor closed-ra valt akkor ki iirni mivel mennyi ido telt el.
+Naghi Mirtill - Boglárka  ->  Scrum board megvalósítása (ToDo, In Progress, Done stb. oszlopok, taskok (vagy a már meglévő story-k) pakolgatása, törlése stb.)
+Kozma Imre 	-> 	Task kezelese(create, delete, update, list).
+Fekete Bernadett	->  Comment hozzaadasa, szerkesztese, listazasa, torlese storykban
+Fülöp Timea -> Project increment (https://www.scaledagileframework.com/program-increment/)
+Kozma Imre -> Egy Task kesziteset vallalnam be.(create, delete, update, list)
+Bukkei Edwin -> review gombot szeretnek hozzaadni a storyhoz, hogy lehessen review-ozni, peldaul looks good,needs work, vagy declined.
+Nagy Szabolcs   -> 1. Cimkék hozzáadása (label) | 2. Cimkék storykhoz rendelése | 3. Cimkék eltávolítása a storykról
+Albert Arnold -> story pont hozzarendelese/updatelese, kimutatas keszitese a story pontokrol, story listazasa kriterium szerint
+Oltean Peter Boroka -> User letrehozasa, user tipusahoz kotodo funkcionalitasok implementalasa, user torlese
+Barabasi Barna -> projekre en a a storykhoz valo fix verziok rendelesevel, modositasaval es torleseval foglakoznek
+Gergely Szabolcs -> Product owner-ek, Scrum master-ek es a hozzajuk tartozo development team tagjainak listazasa, hozzadasa, szerkesztese, torlese
+Daniel Lorand-Zsolt -> Story kiegeszites azzal, hogy kivegezze el az adott feladatot (assign to). Status hozzadas/frissites hogy milyen allapotban van eppen(status). Fajl feltoltes amiben + informaciok szerepelnek.
+Trimfa Egon	->	Sprint goal based template (Goal, Method, Metrics) letrehozasa, szerkesztese es torlese, Projekt backlog CRUD muveletek
+Osztián Pálma Rozália -> Egy Task-hoz tartozó extra property-k megadása (Priority - mennyi fontos/sürgős egy adott task, egyedi id rendelése a Task-hoz - ami összefügghet majd a hozzá tartozó commit üzenettel, User(ek) és User(típusok) hozzárendelése egy adott Task-hoz) 
+Kapás Krisztina ->  létrehoznék prioritásokat,  a storyhoz hozzárendelném a prioritást, és prioritás alapján szűrném a storykat
+Boróka Szekeres -> időhatár a story nal
+Fábián Renáta Tímea ->  Javaslom a szabadság tervezés részt. Szabadság mikortól meddig flexibilis e vagy nem mezők és ki kell jóvá hagyás. Hozzáadás torles és módosítás + tesztelés.
+Roland Vaszi -> tesztelési terv része: Teszteset hozzáadás lefutás és kiértékelés
+Kis Szilvia -> 	Projek létrehozása, elemek hozzáadása (story, epic, bug, stb.), projekt törlése.
